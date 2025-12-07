@@ -1,0 +1,3 @@
+[submodule "opt/halo-node-test"]
+	path = opt/halo-node-test
+	url = https://github.com/ngurfinkel/halo-node-test.git
